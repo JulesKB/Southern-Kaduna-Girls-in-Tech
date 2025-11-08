@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SK Girls in Tech Initiative</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Hero Section -->
+  <header class="hero">
+    <h1>Empowering Southern Kaduna Girls in Tech</h1>
+    <p>Breaking barriers, building futures through technology and mentorship.</p>
+    <button class="cta">Sponsor a Girl</button>
+  </header>
+
+  <!-- Our Story -->
+  <section class="story">
+    <h2>Our Story</h2>
+    <p>The Southern Kaduna Girls in Tech Initiative was founded to address the underrepresentation of young women in technology...</p>
+  </section>
+
+  <!-- Impact -->
+  <section class="impact">
+    <h2>Our Impact</h2>
+    <div class="stats">
+      <div>💻 100+ Girls Trained</div>
+      <div>📚 50 Scholarships Awarded</div>
+      <div>🌍 Community Transformation</div>
+    </div>
+  </section>
+
+  <!-- Programs -->
+  <section class="programs">
+    <h2>Programs</h2>
+    <div class="card">IT Training</div>
+    <div class="card">Mentorship</div>
+    <div class="card">Advanced Learning Sponsorship</div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>Contact us: info@skgirlsintech.org</p>
+    <form>
+      <input type="email" placeholder="Subscribe to our newsletter">
+      <button type="submit">Subscribe</button>
+    </form>
+  </footer>
+</body>
+</html>
